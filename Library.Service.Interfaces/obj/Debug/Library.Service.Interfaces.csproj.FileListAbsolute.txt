@@ -1,0 +1,9 @@
+C:\Users\Carlos\source\repos\Library.API\Library.Service.Interfaces\bin\Debug\Library.Service.Interfaces.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Service.Interfaces\bin\Debug\Library.Service.Interfaces.pdb
+C:\Users\Carlos\source\repos\Library.API\Library.Service.Interfaces\bin\Debug\Library.Domain.Entities.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Service.Interfaces\bin\Debug\Library.Domain.Entities.pdb
+C:\Users\Carlos\source\repos\Library.API\Library.Service.Interfaces\obj\Debug\Library.Service.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\Library.API\Library.Service.Interfaces\obj\Debug\Library.Service.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Library.API\Library.Service.Interfaces\obj\Debug\Library.Service.Interfaces.csproj.CopyComplete
+C:\Users\Carlos\source\repos\Library.API\Library.Service.Interfaces\obj\Debug\Library.Service.Interfaces.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Service.Interfaces\obj\Debug\Library.Service.Interfaces.pdb

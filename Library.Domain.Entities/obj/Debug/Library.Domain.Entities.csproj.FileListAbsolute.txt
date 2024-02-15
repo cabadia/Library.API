@@ -1,0 +1,6 @@
+C:\Users\Carlos\source\repos\Library.API\Library.Domain.Entities\bin\Debug\Library.Domain.Entities.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Domain.Entities\bin\Debug\Library.Domain.Entities.pdb
+C:\Users\Carlos\source\repos\Library.API\Library.Domain.Entities\obj\Debug\Library.Domain.Entities.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\Library.API\Library.Domain.Entities\obj\Debug\Library.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Library.API\Library.Domain.Entities\obj\Debug\Library.Domain.Entities.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Domain.Entities\obj\Debug\Library.Domain.Entities.pdb

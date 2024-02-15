@@ -1,0 +1,13 @@
+C:\Users\Carlos\source\repos\Library.API\Library.Services\bin\Debug\Library.Services.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Services\bin\Debug\Library.Services.pdb
+C:\Users\Carlos\source\repos\Library.API\Library.Services\bin\Debug\Library.Domain.Entities.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Services\bin\Debug\Library.Domain.Interfaces.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Services\bin\Debug\Library.Service.Interfaces.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Services\bin\Debug\Library.Domain.Entities.pdb
+C:\Users\Carlos\source\repos\Library.API\Library.Services\bin\Debug\Library.Domain.Interfaces.pdb
+C:\Users\Carlos\source\repos\Library.API\Library.Services\bin\Debug\Library.Service.Interfaces.pdb
+C:\Users\Carlos\source\repos\Library.API\Library.Services\obj\Debug\Library.Services.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\Library.API\Library.Services\obj\Debug\Library.Services.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Library.API\Library.Services\obj\Debug\Library.Services.csproj.CopyComplete
+C:\Users\Carlos\source\repos\Library.API\Library.Services\obj\Debug\Library.Services.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Services\obj\Debug\Library.Services.pdb
