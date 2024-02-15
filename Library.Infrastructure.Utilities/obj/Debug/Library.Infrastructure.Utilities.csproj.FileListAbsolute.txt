@@ -1,0 +1,11 @@
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\bin\Debug\Library.Infrastructure.Utilities.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\bin\Debug\Library.Infrastructure.Utilities.pdb
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\bin\Debug\Library.Domain.Interfaces.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\bin\Debug\Library.Domain.Entities.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\bin\Debug\Library.Domain.Interfaces.pdb
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\bin\Debug\Library.Domain.Entities.pdb
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\obj\Debug\Library.Infrastructure.Utilities.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\obj\Debug\Library.Infrastructure.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\obj\Debug\Library.Infrastructure.Utilities.csproj.CopyComplete
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\obj\Debug\Library.Infrastructure.Utilities.dll
+C:\Users\Carlos\source\repos\Library.API\Library.Infrastructure.Utilities\obj\Debug\Library.Infrastructure.Utilities.pdb

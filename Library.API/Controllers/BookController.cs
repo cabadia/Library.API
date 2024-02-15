@@ -14,9 +14,11 @@ namespace Library.API.Controllers
     public class BookController : ApiController
     {
         private readonly IBookService _bookService;
-        public BookController(IBookService bookService)
+        private readonly ILogService _logService;
+        public BookController(IBookService bookService, ILogService logService)
         {
             _bookService = bookService;
+            _logService = logService;
         }
         
         [HttpGet]
@@ -35,10 +37,9 @@ namespace Library.API.Controllers
             }
             catch(Exception ex)
             {
-                //todo: log it.
+                _logService.LogException(ex);
                 return InternalServerError(ex);
             }
-
         }
     }
 }

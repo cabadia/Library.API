@@ -20,12 +20,14 @@ namespace Library.API.Tests.Controllers
     {
         private BookController _bookController;
         private Mock<IBookService> _bookServiceMock;
+        private Mock<ILogService> _logServiceMock;
 
         [TestInitialize]
         public void TestInitialize()
         {
             _bookServiceMock = new Mock<IBookService>();
-            _bookController = new BookController(_bookServiceMock.Object);
+            _logServiceMock = new Mock<ILogService>();
+            _bookController = new BookController(_bookServiceMock.Object, _logServiceMock.Object);
         }
 
         [TestMethod]
@@ -80,7 +82,7 @@ namespace Library.API.Tests.Controllers
             var result = await _bookController.GetBooksAsync();
 
             //Assert
-            //TODO: Check if logging is called.
+            _logServiceMock.Verify(l => l.LogException(It.IsAny<Exception>(), It.IsAny<string>()), Times.Once);
             Assert.IsInstanceOfType(result, typeof(ExceptionResult));            
         }
     }
